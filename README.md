@@ -10,9 +10,7 @@
    >
    > Ex : lionel-challenge-1
 
-3. Once done share the link to your workspace in the **Javascipt** Discord channel
-
-## Challenges can be completed in any order you like
+3. Once done share the link to your workspace in the **Javascript** Discord channel
 
 ## Challenges
 
