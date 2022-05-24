@@ -144,7 +144,7 @@ If there is a **z** in the original string, it should become **a**
 >
 > should return 'J mPwF cVAA'
 
-# 12 - \*Object update
+# 12 - Object update
 
 Write a function that will accept 3 parameters (**object**, **string**, **string**) and add a new property and its value or update an existing one.
 
