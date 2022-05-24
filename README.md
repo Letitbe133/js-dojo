@@ -143,3 +143,43 @@ If there is a **z** in the original string, it should become **a**
 > > letterChanges('I love buzz')
 >
 > should return 'J mPwF cVAA'
+
+# 12 - \*Object update
+
+Write a function that will accept 3 parameters (**object**, **string**, **string**) and add a new property and its value or update an existing one.
+
+1st parameter is a reference to an object
+
+2nd parameter is the property name
+
+3rd parameter is the property value
+
+If the property exists in the given object, update its value, else, create a new property affect the value.
+
+Function should return a **new updated object**. Original object **should not** be modified.
+
+> ex :
+>
+> const myObject = {
+> name : "James",
+> age : 30
+> }
+>
+> > updateObject(myObject, "name", "John")
+>
+> should return
+>
+> {
+> name : "John",
+> age : 30
+> }
+>
+> > updateObject(myObject, "country", "England")
+>
+> should return
+>
+> {
+> name : "James",
+> age : 30,
+> country : "England"
+> }
