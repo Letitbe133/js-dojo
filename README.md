@@ -1,17 +1,5 @@
 # Coding Dojo - Javascript
 
-## process
-
-1. Create your account on [repl.it](https://repl.it)
-
-2. Create a workspace to test your code. You should follow the naming convention :
-
-   > **your_name-challenge-challenge_number**
-   >
-   > Ex : lionel-challenge-1
-
-3. Once done share the link to your workspace in the **Javascript** Discord channel
-
 ## Challenges
 
 # 1 - Reverse a string
@@ -143,7 +131,7 @@ Function should **ignore spaces** and **special characters**
 
 # 11 - Letter changes
 
-Write a function that will accept a **string** as paramater and return a lower case string in which each character of the original string will be replaced by the next character in the alphabet (ex: a will become b), and each vowel will be capitalized.
+Write a function that will accept a **string** as parameter and return a lower case string in which each character of the original string will be replaced by the next character in the alphabet (ex: a will become b), and each vowel will be capitalized.
 If there is a **z** in the original string, it should become **a**
 
 > ex :
